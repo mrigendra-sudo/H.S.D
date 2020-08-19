@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">H.S.D</string>
+    <string name="title_activity_camera">camera</string>
+    <string name="title_activity_sendmessage">sendmessage</string>
+    <string name="title_activity_bt">bt</string>
+</resources>
